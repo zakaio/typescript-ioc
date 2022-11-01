@@ -1,5 +1,5 @@
 {
-  "name": "@rssh/typescript-ioc",
+  "name": "@proofspace/typescript-ioc",
   "version": "3.2.3",
   "description": "A Lightweight annotation-based dependency injection container for typescript.",
   "author": "Thiago da Rosa de Bustamante <trbustamante@gmail.com>, rssh <ruslan@shevchenko.kiev.ua>",
@@ -54,11 +54,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rssh/typescript-ioc.git"
+    "url": "https://github.com/proofspace/typescript-ioc.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rssh/typescript-ioc/issues"
+    "url": "https://github.com/proofspace/typescript-ioc/issues"
   },
   "main": "./dist/typescript-ioc.js",
   "typings": "./dist/typescript-ioc.d.ts"
